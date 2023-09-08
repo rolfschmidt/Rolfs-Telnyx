@@ -10,9 +10,7 @@ https://community.zammad.org/t/packages-tutorial/12079
 
 1. Click in your admin interface to the area (Admin -> Packages).
 
-2. Download the current version for the package which is compatible to your zammad version:
-
-[Download Package](https://github.com/rolfschmidt/Rolfs-Telnyx/releases)
+2. [Download the current version](https://github.com/rolfschmidt/Rolfs-Telnyx/releases) for the package which is compatible to your zammad version:
 
 3. Install the package.
 
