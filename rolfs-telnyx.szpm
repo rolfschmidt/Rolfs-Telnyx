@@ -1,0 +1,13 @@
+{
+  "name": "Rolfs-Telnyx",
+  "version": "1.0.0",
+  "vendor": "Rolf Schmidt",
+  "license": "MIT",
+  "url": "https://github.com/rolfschmidt",
+  "files": [
+    {
+      "location": "app/models/channel/driver/sms/telnyx.rb",
+      "permission": 644
+    }
+  ]
+}
