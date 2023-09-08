@@ -2,7 +2,7 @@
 
 This package contains the functionality to add SMS notification support for Telnyx provider.
 
-I came up with that feature while creating an tutorial series for the zammad packages:
+I came up with that feature while creating a tutorial series for the zammad packages:
 
 https://community.zammad.org/t/packages-tutorial/12079
 
