@@ -6,6 +6,10 @@
   "url": "https://github.com/rolfschmidt",
   "files": [
     {
+      "location": "Gemfile.local.RolfsTelnyx",
+      "permission": 644
+    },
+    {
       "location": "app/models/channel/driver/sms/telnyx.rb",
       "permission": 644
     }
