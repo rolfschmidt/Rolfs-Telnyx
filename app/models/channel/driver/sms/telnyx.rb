@@ -1,10 +1,10 @@
-# Copyright (C) 2012-2023 Zammad Foundation, https://zammad-foundation.org/
+# Copyright (C) 2012-2026 Zammad Foundation, https://zammad-foundation.org/
 
 class Channel::Driver::Sms::Telnyx
   NAME = 'sms/telnyx'.freeze
 
   # Style/OptionalBooleanParameter
-  def send(options, attr, _notification = false) # rubocop:disable Style/OptionalBooleanParameter
+  def send(options, attr, _notification = false) # rubocop:disable Style/OptionalBooleanParameter, Zammad/ForbidDefSend
     Rails.logger.info "Sending SMS to recipient #{attr[:recipient]}"
 
     return true if Setting.get('import_mode')
