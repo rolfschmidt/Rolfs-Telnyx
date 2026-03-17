@@ -20,4 +20,4 @@ https://community.zammad.org/t/packages-tutorial/12079
 
 # LICENSE
 
-MIT
+GNU AFFERO GENERAL PUBLIC LICENSE
